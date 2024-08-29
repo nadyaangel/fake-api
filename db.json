@@ -1,0 +1,37 @@
+{
+    "chats": [
+      {
+        "id": "109220",
+        "title": "Naturalization",
+        "messages": [
+          {
+            "sender": "Cameron Phillips",
+            "content": "Please check this out!",
+            "timestamp": "January 1, 2021, 19:10"
+          },
+          {
+            "sender": "John Doe",
+            "content": "I have reviewed the document.",
+            "timestamp": "January 1, 2021, 19:15"
+          }
+        ]
+      },
+      {
+        "id": "109221",
+        "title": "Interview",
+        "messages": [
+          {
+            "sender": "Sarah Jones",
+            "content": "Don't forget the meeting tomorrow.",
+            "timestamp": "February 1, 2021, 15:30"
+          },
+          {
+            "sender": "Jane Smith",
+            "content": "Sure, I will be there.",
+            "timestamp": "February 1, 2021, 15:35"
+          }
+        ]
+      }
+    ]
+  }
+  
